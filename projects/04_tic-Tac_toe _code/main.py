@@ -67,5 +67,4 @@ def play_game():
         current_player = "O" if current_player == "X" else "X"
 
 
-# Step 6: Start the game
 play_game()
